@@ -26,7 +26,7 @@ I aim to write one of these blog posts every week or so, and at least once a mon
 
 ## What is the game exactly?
 
-Look up Dig Dug, Motherlode, TowerFall, and SteamWorld Dig 2 and you should have a pretty good idea of what I'm going for. I learned about [Super Motherlode](https://store.steampowered.com/app/269110/Super_Motherload/) yesterday and that also seems close to what I want, although I haven't played it. 
+Look up Dig Dug, Motherload, TowerFall, and SteamWorld Dig 2 and you should have a pretty good idea of what I'm going for. I learned about [Super Motherload](https://store.steampowered.com/app/269110/Super_Motherload/) yesterday and that also seems close to what I want, although I haven't played it. 
 
 Other big inspirations are Helldivers, Subset Games, Suspicious Developments (Tom Francis), and Joe Kucan. Not that these are related to the game I'm envisioning right now, but they're cool people/games and deserve more attention.
 
