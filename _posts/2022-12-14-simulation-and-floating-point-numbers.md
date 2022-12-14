@@ -1,6 +1,6 @@
 ---
 title: Simulation and Floating Point Numbers
-date: 2022-12-13 17:23:00 -0500
+date: 2022-12-14 15:25:00 -0500
 categories: [Random]
 tags: [blog, tech, random]
 math: true
