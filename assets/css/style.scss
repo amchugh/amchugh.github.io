@@ -16,7 +16,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 }
 
 .increment-container {
-    width: 400px;
+    width: 300px;
     margin: 0 auto 1rem;
     text-align: right;
     // align-items:center;
@@ -25,7 +25,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 .custom-style .display {
     display:block;
-    font-size: 3.2rem;
+    font-size: 2rem;
     font-weight: bold;
     letter-spacing: 1.2rem;
     overflow: hidden;
