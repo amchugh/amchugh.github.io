@@ -22,3 +22,5 @@ package-lock.json
 
 # art assets in development
 *.aseprite
+
+random/
