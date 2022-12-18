@@ -34,3 +34,9 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 .custom-style button {
     margin: 0 auto;
 }
+
+@media only screen and (max-width: 600px) {
+    .increment-container {
+        margin: 0 0 1rem;
+    }
+}
