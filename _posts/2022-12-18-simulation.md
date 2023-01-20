@@ -3,7 +3,6 @@ title: Simulation-based Gaming
 date: 2022-12-18 04:46:00 -0500
 categories: [Design]
 tags: [blog, tech, random]
-math: true
 ---
 
 > It is currently 4:47 A.M. and I'm waiting for my flight home for winter break. I haven't slept. This will be rough.
