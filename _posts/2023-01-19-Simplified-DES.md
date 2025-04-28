@@ -1,6 +1,6 @@
 ---
 title: Simplified DES
-datet: 2023-1-19 21:15:00 -0800
+date: 2023-1-19 21:15:00 -0800
 categories: [Random]
 ---
 
@@ -18,9 +18,9 @@ On the right is the chrome debug panel. You can see this for yourself if you're 
 3. Across the top of the window that pops out: Security
 4. In the overview, there shoud be a text blurb about what version of TLS you are using and what cipher (AES-128, probably).
 
-This blog post is about Simplified DES -- a version of DES made simpler (and worse) for the purpose of education. Full DES takes too long to break. If you want to break it yourself as an individual with commercial computers, you need a slightly simpler algorithm to break it in reasonable time. Plus, it makes it easier to code and understand! 
+This blog post is about Simplified DES -- a version of DES made simpler (and worse) for the purpose of education. Full DES takes too long to break. If you want to break it yourself as an individual with commercial computers, you need a slightly simpler algorithm to break it in reasonable time. Plus, it makes it easier to code and understand!
 
-Speaking of breaking: presumably, a cipher is *secure* if you can show someone the text going in, the text going out, and the algorithm you are using without showing them the *secret* key, and they're unable to predict how different text going in will come out. This algorithm, as we mentioned above, is broken. You *can* tell. 
+Speaking of breaking: presumably, a cipher is *secure* if you can show someone the text going in, the text going out, and the algorithm you are using without showing them the *secret* key, and they're unable to predict how different text going in will come out. This algorithm, as we mentioned above, is broken. You *can* tell.
 
 # Simplified DES
 
